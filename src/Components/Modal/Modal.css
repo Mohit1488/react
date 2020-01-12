@@ -1,0 +1,48 @@
+.MODAL__grid_one
+{
+	text-align: center;
+	border : 2px white solid;
+	display : grid;
+  	height: 200px;
+  	width: 80%;
+}
+
+.MODAL__grid_div
+{
+	align-items: center;
+	width: 78%; 
+	margin: 50px 150px 50px 150px; 
+	border: none ;
+	width: 50%;
+	left :200px;
+	right : 200px;
+}
+
+.MODAL__paper_one
+{
+	height: 52px;
+	padding-top: 20px;
+}
+
+.MODAL__footer_buttons
+{
+	color: white;
+	background-color: forestgreen;
+	border: none;
+	padding: 10px;
+	height:41px;
+	width: 80px;
+}
+
+.MODAL__paper_one_two
+{
+	padding-top: 20px;
+	text-align: left;
+	padding-left: 20px;
+}
+
+.MODAL__paper_one_three
+{
+	height: 30px;
+	padding-top: 20px;
+}

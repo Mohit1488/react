@@ -1,0 +1,52 @@
+.APP_div_1
+{
+	margin-top : 20px ;
+	margin-bottom : 1px ;  
+	margin-right : 10px ;
+	margin-left : 10px ;
+	display : inline-block;
+}
+
+.APP__top_buttons
+{
+	background-color : White ;
+	text-align: center ;
+	height : 40px ;
+	width : 454px ;
+	font-size : 17px ;
+	border : none ;
+	box-shadow: 1px 2px lightgrey;
+}
+
+.APP_button_1
+{
+	background-color : DarkOrange;
+	color : white;
+}
+
+
+.APP__footer_buttons
+{
+	color : white;
+	background-color : forestgreen;
+	display: inline-block;
+	margin-top : 20px ;
+	margin-bottom : 20px ;  
+	margin-right : 10px ;
+	margin-left : 10px ;
+	height : 40px;
+	width : 120px;
+	border : none;
+	padding : 10px;
+	text-align : center;
+	font-size : 17px;
+	position: relative;
+	top: 370px;
+}
+
+.APP_main_div
+{
+	text-align: center;
+	height: 1000px;
+	width:100%;
+}
